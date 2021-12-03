@@ -235,10 +235,12 @@ select#targetCmd::-webkit-scrollbar {
     display: none; /* Chrome, Safari, Opera*/
 }
 
+/*
 select {
     font-size:10pt;
     height:326px;
 }
+*/
 
 /********************************************************************
  * BankMap.html에서 사용된 style
