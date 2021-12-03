@@ -212,6 +212,8 @@ select#sourceCmd {
     width: 200px;
     display: inline-block;
     border-radius: 5px;
+    font-size:10pt;
+    height:326px;
 }
 select#sourceCmd::-webkit-scrollbar {
     display: none; /* Chrome, Safari, Opera*/
@@ -230,6 +232,8 @@ select#targetCmd {
     resize: none;
     width: 300px;
     border-radius: 5px;
+    font-size:10pt;
+    height:326px;
 }
 select#targetCmd::-webkit-scrollbar {
     display: none; /* Chrome, Safari, Opera*/
